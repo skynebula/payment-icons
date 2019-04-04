@@ -1,1 +1,1 @@
-# payment-icons
+# Payment Icons
