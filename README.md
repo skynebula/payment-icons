@@ -1,6 +1,6 @@
 # Payment Icons
 
-Just a little set of a few icons for different payment services
+A simple set of a icons for different payment services
 - ![Visa](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_visa.png?raw=true)
 - ![Mastercard](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_mastercard.png?raw=true)
 - ![Maestro](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_maestro.png?raw=true)
