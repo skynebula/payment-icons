@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="85px" height="55px" viewBox="0 0 85 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>payment_maestro</title>
     <desc>Created with Sketch.</desc>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Payment-Icons_Icons" transform="translate(-405.000000, -175.000000)">
-            <g id="payment_maestro" transform="translate(405.000000, 175.000000)">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Payment-Icon-/-Maestro">
+            <g id="payment_maestro">
                 <rect id="Card" stroke="#CCCCCC" fill="#FFFFFF" x="0.5" y="0.5" width="84" height="54" rx="3"></rect>
                 <g id="maestro" transform="translate(17.000000, 8.000000)" fill-rule="nonzero">
                     <polygon id="path3554" fill="#6C6BBD" points="32.923167 28.3880217 18.908013 28.3880217 18.908013 3.39762669 32.923167 3.39762669"></polygon>

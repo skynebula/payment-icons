@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="85px" height="55px" viewBox="0 0 85 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>payment_amex</title>
     <desc>Created with Sketch.</desc>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Payment-Icons_Icons" transform="translate(-300.000000, -250.000000)">
-            <g id="payment_amex" transform="translate(300.000000, 250.000000)">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Payment-Icon-/-American-Express">
+            <g id="payment_amex">
                 <rect id="Card" stroke="#CCCCCC" fill="#006FCF" x="0.5" y="0.5" width="84" height="54" rx="3"></rect>
                 <g id="amex" transform="translate(12.000000, 19.000000)" fill="#FFFFFF">
                     <path d="M50.4856732,12.8197088 L48.734119,12.8197088 C48.3453713,12.8197088 48.1020999,12.5707134 48.1020999,12.2221198 C48.1020999,11.8735261 48.393539,11.6743298 48.734119,11.6743298 L51.8966475,11.6743298 L52.6264618,10.0309598 L48.734119,10.0309598 C47.1290142,10.0309598 46.2040962,11.0269416 46.2040962,12.3217179 C46.2040962,13.7160925 47.0798733,14.5128779 48.4908476,14.5128779 L50.2424018,14.5128779 C50.6316361,14.5128779 50.8749075,14.7618734 50.8749075,15.110965 C50.8749075,15.4590607 50.6316361,15.7080561 50.2424018,15.7080561 L46.4473676,15.7080561 L46.4473676,17.3519241 L50.2424018,17.3519241 C51.8479932,17.3519241 52.7724246,16.4052434 52.7724246,15.0108688 C52.7724246,13.6164943 51.9453018,12.8197088 50.4856732,12.8197088" id="Path"></path>

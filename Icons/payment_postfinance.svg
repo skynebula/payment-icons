@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="85px" height="55px" viewBox="0 0 85 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
     <title>payment_postfinance</title>
     <desc>Created with Sketch.</desc>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Payment-Icons_Icons" transform="translate(-300.000000, -325.000000)">
-            <g id="payment_postfinance" transform="translate(300.000000, 325.000000)">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Payment-Icon-/-PostFinance">
+            <g id="payment_postfinance">
                 <rect id="Card" stroke="#CCCCCC" fill="#FCD205" x="0.5" y="0.5" width="84" height="54" rx="3"></rect>
                 <g id="postfinance" transform="translate(8.000000, 22.000000)" fill-rule="nonzero">
                     <polyline id="path24" fill="#FFFFFF" transform="translate(29.837107, 10.087212) scale(-1, 1) rotate(-180.000000) translate(-29.837107, -10.087212) " points="58.9518423 8.3672 59.6742145 11.807225 0.723018466 11.807225 -7.10542736e-14 8.3672 58.9518423 8.3672"></polyline>

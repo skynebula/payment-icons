@@ -7,6 +7,8 @@ Just a little set of a few icons for different payment services
 - ![American Express](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_amex.png?raw=true)
 - ![PostFinance](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_postfinance.png?raw=true)
 - ![Twint](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_twint.png?raw=true)
+- ![PayPal](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_paypal.png?raw=true)
+- ![Apple Pay](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_applepay.png?raw=true)
 
 ---
 Logos are copyrighted by respective brands
