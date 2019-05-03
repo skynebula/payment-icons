@@ -10,5 +10,7 @@ Just a little set of a few icons for different payment services
 - ![PayPal](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_paypal.png?raw=true)
 - ![Apple Pay](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_applepay.png?raw=true)
 
+All the exported assets (PNG 1/2/3x, SVG, PDF) are in the [Icons](https://github.com/skynebula/payment-icons/tree/master/Icons) folder.
+
 ---
 Logos are copyrighted by respective brands
