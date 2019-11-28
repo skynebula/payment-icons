@@ -14,4 +14,6 @@ All the exported assets (PNG 1/2/3x, SVG, PDF) are in the [Icons](https://github
 The [Sketch file](https://github.com/skynebula/payment-icons/blob/master/Payment-Icons.sketch) can be used as a library.
 
 ---
+
+Licence : [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
 Logos are copyrighted by respective brands
