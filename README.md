@@ -1,6 +1,6 @@
 # Payment Icons
 
-A simple set of icons for different payment services.
+### A simple set of icons for different payment services.
 
 Category | Icon preview
 ------------ | -------------
