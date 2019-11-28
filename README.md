@@ -9,7 +9,7 @@ Online | ![PayPal](https://github.com/skynebula/payment-icons/blob/master/Icons/
 Mobile | ![Apple Pay](https://github.com/skynebula/payment-icons/blob/master/Icons/Apple%20Pay/payment_applepay.png?raw=true) ![Google Pay](https://github.com/skynebula/payment-icons/blob/master/Icons/Google%20Pay/payment_googlepay.png?raw=true)
 Switzerland | ![PostFinance](https://github.com/skynebula/payment-icons/blob/master/Icons/PostFinance/payment_postfinance.png?raw=true) ![Twint](https://github.com/skynebula/payment-icons/blob/master/Icons/Twint/payment_twint.png?raw=true) ![BVR](https://github.com/skynebula/payment-icons/blob/master/Icons/BVR/payment_bvr.png?raw=true)
 USA | ![Discover](https://github.com/skynebula/payment-icons/blob/master/Icons/Discover/payment_discover.png?raw=true) ![Diners Club](https://github.com/skynebula/payment-icons/blob/master/Icons/Diners%20Club/payment_dinersclub.png?raw=true)
-Cryptocurrencies | ![Bitcoin](https://github.com/skynebula/payment-icons/blob/master/Icons/Bircoin/payment_bitcoin.png?raw=true)
+Cryptocurrencies | ![Bitcoin](https://github.com/skynebula/payment-icons/blob/master/Icons/Bitcoin/payment_bitcoin.png?raw=true)
 
 All the exported assets (PNG 1/2/3x, SVG, PDF) are in the [Icons](https://github.com/skynebula/payment-icons/tree/master/Icons) folder.
 
