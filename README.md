@@ -2,7 +2,7 @@
 
 A simple set of icons for different payment services.
 
-Type | Icon preview
+Category | Icon preview
 ------------ | -------------
 Cards | ![Visa](https://github.com/skynebula/payment-icons/blob/master/Icons/Visa/payment_visa.png?raw=true) ![Mastercard](https://github.com/skynebula/payment-icons/blob/master/Icons/Mastercard/payment_mastercard.png?raw=true) ![Maestro](https://github.com/skynebula/payment-icons/blob/master/Icons/Maestro/payment_maestro.png?raw=true) ![American Express](https://github.com/skynebula/payment-icons/blob/master/Icons/American%20Express/payment_amex.png?raw=true) 
 Online | ![PayPal](https://github.com/skynebula/payment-icons/blob/master/Icons/PayPal/payment_paypal.png?raw=true) 
