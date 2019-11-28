@@ -1,16 +1,10 @@
 # Payment Icons
 
 A simple set of a icons for different payment services
-- ![Visa](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_visa.png?raw=true)
-- ![Mastercard](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_mastercard.png?raw=true)
-- ![Maestro](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_maestro.png?raw=true)
-- ![American Express](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_amex.png?raw=true)
-- ![PayPal](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_paypal.png?raw=true)
-- ![Apple Pay](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_applepay.png?raw=true)
-- ![Google Pay](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_googlepay.png?raw=true)
-- ![PostFinance](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_postfinance.png?raw=true)
-- ![Twint](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_twint.png?raw=true)
-- ![BVR](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_bvr.png?raw=true)
+![Visa](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_visa.png?raw=true) ![Mastercard](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_mastercard.png?raw=true) ![Maestro](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_maestro.png?raw=true) ![American Express](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_amex.png?raw=true) 
+![PayPal](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_paypal.png?raw=true)
+![Apple Pay](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_applepay.png?raw=true) ![Google Pay](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_googlepay.png?raw=true)
+![PostFinance](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_postfinance.png?raw=true) ![Twint](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_twint.png?raw=true) ![BVR](https://github.com/skynebula/payment-icons/blob/master/Icons/payment_bvr.png?raw=true)
 
 All the exported assets (PNG 1/2/3x, SVG, PDF) are in the [Icons](https://github.com/skynebula/payment-icons/tree/master/Icons) folder.
 
