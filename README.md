@@ -14,6 +14,7 @@ Cryptocurrencies | ![Bitcoin](https://github.com/skynebula/payment-icons/blob/ma
 All the exported assets (PNG 0.5/1/2/3x, SVG, PDF) are in the [Icons](https://github.com/skynebula/payment-icons/tree/master/Icons) folder.
 
 The [Figma file](https://github.com/skynebula/payment-icons/blob/master/Payment-Icons.fig) can be used as a library.
+
 The Sketch file is deprecated.
 
 ---
