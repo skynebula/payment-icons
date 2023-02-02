@@ -11,9 +11,10 @@ Switzerland | ![PostFinance](https://github.com/skynebula/payment-icons/blob/mas
 USA | ![Discover](https://github.com/skynebula/payment-icons/blob/master/Icons/Discover/payment_discover.png?raw=true) ![Diners Club](https://github.com/skynebula/payment-icons/blob/master/Icons/Diners%20Club/payment_dinersclub.png?raw=true)
 Cryptocurrencies | ![Bitcoin](https://github.com/skynebula/payment-icons/blob/master/Icons/Bitcoin/payment_bitcoin.png?raw=true)
 
-All the exported assets (PNG 1/2/3x, SVG, PDF) are in the [Icons](https://github.com/skynebula/payment-icons/tree/master/Icons) folder.
+All the exported assets (PNG 0.5/1/2/3x, SVG, PDF) are in the [Icons](https://github.com/skynebula/payment-icons/tree/master/Icons) folder.
 
-The [Sketch file](https://github.com/skynebula/payment-icons/blob/master/Payment-Icons.sketch) can be used as a library.
+The [Figma file](https://github.com/skynebula/payment-icons/blob/master/Payment-Icons.fig) can be used as a library.
+The Sketch file is deprecated.
 
 ---
 
